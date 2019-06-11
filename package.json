@@ -1,0 +1,19 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack-dev-server --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.33.0",
+    "webpack-dev-server": "^3.7.1"
+  },
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "webpack-cli": "^3.3.4"
+  }
+}
